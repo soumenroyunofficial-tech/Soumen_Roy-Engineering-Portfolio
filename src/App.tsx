@@ -346,12 +346,6 @@ function App() {
               {!editing && <button className="secondary-button" type="button" onClick={beginEdit}>Edit profile</button>}
             </div>
           </div>
-          <div className="hero-art-wrap" aria-label="Abstract illustration of embedded systems and robotics">
-            <div className="art-corner art-corner-top" />
-            <img className="hero-art" src="/manus-storage/async-images/vLcctjHg8hTZihA6QeBM3u/image-1.webp" alt="Abstract technical illustration of a circuit board, sensor, and robotic rover" />
-            <div className="art-caption"><span>01 / 03</span><span>Ideas into systems</span></div>
-            <div className="art-stamp" aria-hidden="true">SR<br /><span>ECE</span></div>
-          </div>
         </section>
 
         <div className="control-band no-print">
